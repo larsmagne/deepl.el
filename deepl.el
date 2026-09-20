@@ -25,7 +25,7 @@
 (require 'url)
 
 (defvar deepl-api-key nil
-  "The key to the Gemini assistant.")
+  "The key to the Deepl API.")
 
 (defvar deepl-url "https://api-free.deepl.com"
   "URL to use.")
